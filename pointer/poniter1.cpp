@@ -14,7 +14,10 @@ int main(){
     // // cout<<p<<endl;
     // // cout<<&a<<endl;
     // ko(*p);
-    int *p = 0;
-    cout<<*p;
+    // int *p = 0;
+    // cout<<*p;
+    int a[3] = {1,2,3};
+    // a= int(a)++;
+    cout<<a++;
 
 }
